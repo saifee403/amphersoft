@@ -1,0 +1,293 @@
+.coursesCard {
+    padding: 50px 0;
+  }
+  .coursesCard .items-1 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-1:hover {
+    background-image: url("https://www.rishabhsoft.com/wp-content/uploads/2020/06/webapp_iso_1.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  .coursesCard .items-2 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-2:hover {
+    background-image: url("https://gdcitsolutions.com/wp-content/uploads/Web-Design-Dev-Overview.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  .coursesCard .items-3 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-3:hover {
+    background-image: url("https://img.freepik.com/free-photo/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room_74952-1410.jpg?w=2000");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  .coursesCard .items-4 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-4:hover {
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/60f1e792c7e89f933811814c/DevOps-concept/960x0.jpg?format=jpg&width=960");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  .coursesCard .items-5 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-5:hover {
+    background-image: url("https://kinsta.com/wp-content/uploads/2022/10/what-is-iot.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  .coursesCard .items-6 {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .coursesCard .items-6:hover {
+    background-image: url("https://www.atomcamp.com/wp-content/uploads/2023/04/data-sceince-ai-atomcamp-blog.png");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+ 
+
+
+  .coursesCard .img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 15px;
+  }
+  .coursesCard img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .coursesCard .text {
+    margin-left: 15px;
+    text-align: left;
+  }
+  .coursesCard .text h1 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+  }
+  .coursesCard .rate {
+    margin: 20px 0;
+    color: #1eb2a6;
+  }
+  .coursesCard .rate i {
+    font-size: 13px;
+    margin-right: 5px;
+  }
+  .coursesCard .details .dimg img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  .coursesCard .details .box {
+    display: flex;
+    align-items: center;
+    color: grey;
+  }
+  .coursesCard .details span {
+    color: #1eb2a6;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .coursesCard .price {
+    margin: 30px 0;
+    background-color: #f8f8f8;
+    padding: 10px;
+  }
+  .coursesCard h3 {
+    font-weight: 500;
+    color: #1eb2a6;
+  }
+  /*-------------online---------*/
+  .online {
+    text-align: center;
+  }
+  .online .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12 {
+    box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+    background-color: #fff;
+    padding: 30px 20px;
+    transition: 0.5s;
+  }  
+  
+  .online .box-1:hover {
+    background-image: url("https://isqua.org/media/k2/items/cache/18bdd04e288fc232234be2fb5ea8bf38_XL.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-2:hover {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cd/University-of-Alabama-EngineeringResearchCenter-01.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-3:hover {
+    background-image: url("https://reachretail.files.wordpress.com/2019/07/2-the-future-of-retail-business-in-india.png");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-4:hover {
+    background-image: url("https://redoakvc.com/wp-content/uploads/2022/08/Real-Estate-Is-this-a-good-time-to-buy-a-house.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-5:hover {
+    background-image: url("https://img.freepik.com/premium-photo/cyber-security-digital-data-protection-concept_31965-1701.jpg?w=2000");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-6:hover {
+    background-image: url("https://img.freepik.com/free-vector/sports-equipment-icons-set_1284-13032.jpg?w=2000");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-7:hover {
+    background-image: url("https://i2-prod.mirror.co.uk/incoming/article12392023.ece/ALTERNATES/s1200d/Woman-exercising-on-rowing-machine-in-gymnasium1.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-8:hover {
+    background-image: url("https://cdn.shopify.com/s/files/1/0070/7032/files/MarketingPlanEx_resized-583690554.jpg?v=1636567942");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-9:hover {
+    background-image: url("https://castlegreenfinance.com/wp-content/uploads/2022/01/Hi-Tech-Energy-Monitoring-System-4-e1642875952667-1024x615.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-10:hover {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cd/University-of-Alabama-EngineeringResearchCenter-01.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-11:hover {
+    background-image: url("https://www.pacificoaks.edu/voicesadmin/2020/06/poc-what-is-business-administration.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .online .box-12:hover {
+    background-image: url("https://www.pccwsolutions.com/site/newdist/images/industry/travel-and-transportation-banner.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .online .img {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    position: relative;
+  }
+
+  .online img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .online h1 {
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px 0;
+    line-height: 30px;
+  }
+  .online span {
+    background-color: #f8f8f8;
+    padding: 5px 20px;
+    font-weight: 500;
+    font-size: 15px;
+    color: #1eb2a6;
+    border-radius: 5px;
+  }
+  .online .box .show {
+    opacity: 0;
+  }
+  .online .box:hover {
+    background-color: #1eb2a6;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .online .box:hover .show {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .online .box:hover h1 {
+    color: #fff;
+  }
+  /*-------------online---------*/
+  @media screen and (max-width: 768px) {
+  }
