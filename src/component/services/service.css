@@ -2,12 +2,13 @@
     padding: 50px 0;
   }
   .coursesCard .items-1 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
+    
   }
   .coursesCard .items-1:hover {
-    background-image: url("https://www.rishabhsoft.com/wp-content/uploads/2020/06/webapp_iso_1.jpg");
+    background-image: url("https://www.anblicks.com/wp-content/uploads/2022/08/Why-Custom-Web-Application-Development-Should-be-the-Focus-of-Your-Business-1.png");
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -15,7 +16,7 @@
     cursor: pointer;
 }
   .coursesCard .items-2 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
   }
@@ -28,7 +29,7 @@
     cursor: pointer;
 }
   .coursesCard .items-3 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
   }
@@ -41,7 +42,7 @@
     cursor: pointer;
 }
   .coursesCard .items-4 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
   }
@@ -54,7 +55,7 @@
     cursor: pointer;
 }
   .coursesCard .items-5 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
   }
@@ -67,7 +68,7 @@
     cursor: pointer;
 }
   .coursesCard .items-6 {
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px;
     text-align: center;
   }
@@ -103,6 +104,7 @@
     font-size: 30px;
     font-weight: 500;
     line-height: 45px;
+    color: #889bf1;
   }
   .coursesCard .rate {
     margin: 20px 0;
@@ -143,7 +145,7 @@
   }
   .online .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12 {
     box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
-    background-color: #fff;
+    background-color: #c3c2c5;
     padding: 30px 20px;
     transition: 0.5s;
   }  

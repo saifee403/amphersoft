@@ -8,7 +8,7 @@ function ServiceCard() {
       <section className='coursesCard'>
         <div className='container grid2'>
           {coursesCard.map((val, index) => (
-            <div className={`items-${index + 1}`}>
+            <div key={index} className={`items-${index + 1}`}>
               <div className='content flex'>
                 <div className='left'>
                   <div className='img'>
@@ -25,21 +25,7 @@ function ServiceCard() {
                     <i className='fa fa-star'></i>
                     <label htmlFor=''>(5.0)</label>
                   </div> */}
-                  <div className='details'>
-                    {val.courTeacher.map((details) => (
-                      <>
-                        <div className='box'>
-                          {/* <div className='dimg'>
-                            <img src={details.dcover} alt='' />
-                          </div> */}
-                          {/* <div className='para'>
-                            <h4>{details.name}</h4>
-                          </div> */}
-                        </div>
-                        {/* <span>{details.totalTime}</span> */}
-                      </>
-                    ))}
-                  </div>
+
                 </div>
               </div>
               {/* <div className='price'>

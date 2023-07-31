@@ -12,6 +12,7 @@ import Team from './component/team/Team';
 import Contact from './component/contact/Contact';
 import Footer from './component/common/footer/Footer';
 
+
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       <Header/>
         <Routes>
           <Route path='/' element={<Home/>}/>
+          
           <Route path='/about' element={<About/>}/>
           <Route path='/services' element={<ServiceHome/>}/>
           <Route path='/team' element={<Team/>}/>

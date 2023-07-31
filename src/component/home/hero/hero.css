@@ -12,6 +12,7 @@
   padding-right: 50px;
   color: #fff;
 }
+
 .hero #heading h3 {
   color: #fff;
 }
@@ -27,7 +28,7 @@
   .hero {
     background-position: right;
     padding-top: 50%;
-    height: 80vh;
+    height: 100vh;
   }
   .hero .row {
     width: 100%;

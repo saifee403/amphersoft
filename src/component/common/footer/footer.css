@@ -2,6 +2,7 @@
     background-color: #1eb2a6;
     padding: 50px 0;
     color: #fff;
+    margin-top: 15px;
   }
   .newletter .right,
   .newletter .left {
@@ -31,7 +32,8 @@
     background-color: #fff;
   }
   footer {
-    background-color: #353434;
+    background-color: #c3c2c5;
+    margin-top: 15px;
   }
   footer .container {
     display: grid;

@@ -3,7 +3,7 @@ export const homeAbout = [
       id: 1,
       cover: "https://img.icons8.com/?size=512&id=VUt5dWfcfFzt&format=png",
       title: "High-Quality Standard",
-      desc: "One of the leading competitive advantages that Bitsol Technologies offers is identifying the objectives and challenges of businesses while providing customized solutions with high-quality standards.",
+      desc: "One of the leading competitive advantages that AmpherSoft offers is identifying the objectives and challenges of businesses while providing customized solutions with high-quality standards.",
     },
     {
       id: 1,
@@ -28,24 +28,20 @@ export const homeAbout = [
     {
       cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
       data: "3,000",
-      title: "SUCCESS STORIES",
+      title: "Projects",
     },
   
     {
       cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
       data: "320",
-      title: "TRUSTED TUTORS",
+      title: "Emplooyes",
     },
     {
       cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
       data: "1,000",
-      title: "SCHEDULES",
+      title: "Hours",
     },
-    {
-      cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-      data: "587",
-      title: "COURSES",
-    },
+ 
   ]
   export const coursesCard = [
     {
