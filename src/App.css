@@ -86,7 +86,7 @@ p {
 }
 
 .back {
-  background-image: url("../../amphersoft/src/component/img/back.webp");
+  background-image: url("../../amphersoft/src/component/img/backimg.png");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;

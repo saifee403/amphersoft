@@ -36,11 +36,6 @@ export const homeAbout = [
       data: "320",
       title: "Emplooyes",
     },
-    {
-      cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-      data: "1,000",
-      title: "Hours",
-    },
  
   ]
   export const coursesCard = [

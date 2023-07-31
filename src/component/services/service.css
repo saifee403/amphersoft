@@ -2,7 +2,7 @@
     padding: 50px 0;
   }
   .coursesCard .items-1 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
     
@@ -16,7 +16,7 @@
     cursor: pointer;
 }
   .coursesCard .items-2 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
   }
@@ -29,7 +29,7 @@
     cursor: pointer;
 }
   .coursesCard .items-3 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
   }
@@ -42,7 +42,7 @@
     cursor: pointer;
 }
   .coursesCard .items-4 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
   }
@@ -55,7 +55,7 @@
     cursor: pointer;
 }
   .coursesCard .items-5 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
   }
@@ -68,7 +68,7 @@
     cursor: pointer;
 }
   .coursesCard .items-6 {
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px;
     text-align: center;
   }
@@ -145,7 +145,7 @@
   }
   .online .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12 {
     box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
-    background-color: #c3c2c5;
+    background-color: #fff;
     padding: 30px 20px;
     transition: 0.5s;
   }  

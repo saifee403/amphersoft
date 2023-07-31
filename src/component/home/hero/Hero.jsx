@@ -8,8 +8,8 @@ function Hero() {
         <section className='hero'>
             <div className="container">
                 <div className="row">
-                    <Title subtitle="WELCOME TO AMPHERSOFT" title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum magnam eum ducimus quis voluptatibus! Beatae recusandae cum, consequatur similique, quo laudantium labore"/>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum magnam eum ducimus quis voluptatibus! Beatae recusandae cum, consequatur similique, quo laudantium labore, aut rem esse quis nobis ea repudiandae saepe.</p>
+                    <Title subtitle="WELCOME TO AMPHERSOFT" title="Our Passion is to Deliver Software that Helps You Succeed"/>
+                    <p>We help our partners accelerate disruption both within their organizations and industries. They strategize new ideas and obtain real business value by getting the most out of our production-ready custom software development services. Talk to our experts today!</p>
                     <div className="button">
                         <button className="primary-btn">
                             Get Started <i className="fa fa-long-arrow-alt-right"></i>
@@ -21,7 +21,6 @@ function Hero() {
                 </div>
             </div>
         </section>
-
         <div className="margin"></div>
     </>
   )

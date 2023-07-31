@@ -31,12 +31,12 @@ function Contact() {
             </div>
           </div>
 
-          <form action=''>
+          <form action='https://formspree.io/f/moqojepp' method='POST'>
             <div className='flexSB'>
-              <input type='text' placeholder='Name' />
-              <input type='email' placeholder='Email' />
+              <input name='name' type='text' placeholder='Name' />
+              <input name='email' type='email' placeholder='Email' />
             </div>
-            <input type='text' placeholder='Subject' />
+            <input name='msg' type='text' placeholder='Subject' />
             <textarea cols='30' rows='10'>
               Create a message here...
             </textarea>

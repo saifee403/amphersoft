@@ -5,9 +5,7 @@ function Head() {
     <div>
         <section className='head'>
             <div className="container flexSB">
-                <div className="logo">
-                    <h1>AmpherSoft</h1>
-                    <span>Technology simplified for all</span>
+                <div className="logo1">
                 </div>
                 <div className="social">
                     <i className='fab fa-facebook-f icon'></i>
